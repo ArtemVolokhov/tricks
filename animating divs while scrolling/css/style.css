@@ -1,0 +1,12 @@
+.box {
+  width: 300px;
+  height: 300px;
+  margin: 200px;
+  background-color: red;
+  display: block;
+  margin-bottom: 400px;
+}
+
+.animated {
+  opacity: 0;
+}
